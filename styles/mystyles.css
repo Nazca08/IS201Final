@@ -1,0 +1,94 @@
+
+
+.quote1 {
+
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+
+}
+
+.author1 {
+
+  font-size: medium;
+  font-style: italic;
+  font-weight: bold;
+  color: #7d848a;
+    
+}
+
+.homeimg1 {
+
+    position: absolute;
+    float: right;
+    padding-top: 0px;
+    padding-left: 85px;
+    width: 430px;
+}
+
+.homeimg2 {
+
+    position: absolute;
+    padding-top: 390px;
+    padding-left: 85px;
+    width: 430px;
+
+}
+
+.copyright {
+
+font: medium;
+font-style: italic;
+font-family: 'Courier New', Courier, monospace;
+color: whitesmoke;
+text-align: center;
+
+}
+
+.youtubevid {
+
+    padding-left: 340px;
+    padding-bottom: 25px;
+    padding-top: 25px;
+
+}
+
+.mepic {
+
+    position: absolute;
+    padding-top: 0px;
+    padding-left: 65px;
+    width: 330px;
+
+}
+
+ol > li {
+
+    font-weight: bold;
+    color: white;
+
+}
+
+ul > li {
+
+    font-weight: normal;
+    color: black;
+}
+
+.backtotop {
+
+    text-align: right;
+    padding-right: 20px;
+    font-weight: bold;
+    color: chartreuse;
+
+}
+
+.byulink {
+
+    color: blue;
+}
+
+body {
+    background: chartreuse;
+}

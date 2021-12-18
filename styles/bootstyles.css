@@ -1,0 +1,69 @@
+body {
+    background: chartreuse;
+}
+
+.copyright {
+
+    font: medium;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    color: whitesmoke;
+    text-align: center;
+}
+
+header {
+    
+    border: black;
+    border-style: solid;
+    height: 80px;
+    background-color: black;
+    
+
+}
+
+
+.navigation {
+    
+    color: white;
+    text-align: right;
+}
+
+.leftcolumn {
+
+    top: 110px;
+    left: 125px;
+    width: 800px;
+    position: absolute;
+}
+
+.rightcolumn {
+
+    top: 110px;
+    right: 125px;
+    width: 800px;
+    position: absolute;
+}
+
+footer {
+
+    height: 80px;
+    left: 5px;
+    right: 5px;
+    text-align: center;
+    position: fixed;
+    bottom: 5px;
+    border: black;
+    border-style: solid;
+    background: black;
+}
+
+.chartdescription {
+
+    font-size: larger;
+
+}
+
+header {
+
+    font-size: 22px;
+}
